@@ -20979,3 +20979,10 @@ Entries:
   id: 2312
   time: '2026-05-10T21:20:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3980
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: IPC/Borg shader no longer gets nauseating at 2+ hours
+  id: 2313
+  time: '2026-05-11T09:24:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3972

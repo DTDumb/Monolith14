@@ -21611,3 +21611,12 @@ Entries:
   id: 2382
   time: '2026-06-21T16:22:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4086
+- author: RemervKeberb
+  changes:
+    - type: Tweak
+      message: Ultra-high-gunnery servers no longer unanchorable.
+    - type: Tweak
+      message: Omega-high-gunnery server GP down from 500 --> 300
+  id: 2383
+  time: '2026-06-21T16:24:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4044

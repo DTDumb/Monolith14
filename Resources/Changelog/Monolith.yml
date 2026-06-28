@@ -21817,3 +21817,10 @@ Entries:
   id: 2406
   time: '2026-06-28T11:27:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3324
+- author: thoughtlessuser
+  changes:
+    - type: Add
+      message: Added the first ever community Minor Faction in the Guidebook!
+  id: 2407
+  time: '2026-06-28T12:22:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4130

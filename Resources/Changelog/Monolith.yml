@@ -21810,3 +21810,10 @@ Entries:
   id: 2405
   time: '2026-06-28T10:41:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3826
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: The Saturn and Flyssa have gotten upgrades.
+  id: 2406
+  time: '2026-06-28T11:27:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3324

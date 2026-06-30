@@ -21947,3 +21947,16 @@ Entries:
   id: 2424
   time: '2026-06-30T05:52:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4166
+- author: Mrrpip
+  changes:
+    - type: Fix
+      message: >-
+        Renewable LPCs in the sector were found to be running under Emissions
+        Savings Time. They now line up their intended recharge times.
+    - type: Fix
+      message: Renewable LPCs can be used more than the initial purchase.
+    - type: Tweak
+      message: Player deed unassign timer lowered to 25 minutes.
+  id: 2425
+  time: '2026-06-30T07:26:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4132

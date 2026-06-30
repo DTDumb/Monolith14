@@ -21940,3 +21940,10 @@ Entries:
   id: 2423
   time: '2026-06-29T16:13:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4096
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added 2 new capital missile launchers - Vanquisher and Paladin.
+  id: 2424
+  time: '2026-06-30T05:52:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4166

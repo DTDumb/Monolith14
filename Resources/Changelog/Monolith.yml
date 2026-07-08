@@ -22296,3 +22296,10 @@ Entries:
   id: 2464
   time: '2026-07-08T14:07:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4244
+- author: kasature90
+  changes:
+    - type: Remove
+      message: Removed Asakim.
+  id: 2465
+  time: '2026-07-08T15:58:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4246

@@ -22401,3 +22401,10 @@ Entries:
   id: 2476
   time: '2026-07-11T18:57:16.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4147
+- author: kasature90
+  changes:
+    - type: Add
+      message: Added spec-ops roles for TSF & PDV, for hyperwar only.
+  id: 2477
+  time: '2026-07-11T19:13:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4258

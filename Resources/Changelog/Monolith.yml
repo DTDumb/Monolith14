@@ -22460,3 +22460,26 @@ Entries:
   id: 2483
   time: '2026-07-14T18:15:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4276
+- author: kasature90
+  changes:
+    - type: Add
+      message: Added Vympel as a new T0/T1 rifle for PDV. Roundstart in loadout.
+    - type: Tweak
+      message: >-
+        Nerfed Iroh to 8.4 RPS, removed crafting recipe. Added 1.5x damage to
+        Xian & AK-410. Buffed 4.6 & 5.7 FMJ's partial AP, buffed AP rounds for
+        them too. Unnerfed M-90, moved it back to T2 research. Removed damage
+        penalty from Annie & MLA-73, added 0.85x damage multiplier to C-20r.
+        Malandro is now 9x19mm with a 0.85x damage multiplier. Increased
+        slowdown for Shenzhen on wield. Hristov damage buffed to 80, slowdown
+        reduced to 0.6x. Buffed 6.35x40mm caseless AP and damage. Grizzly is no
+        longer multicaliber, and is now 6.8x52mm only.
+    - type: Fix
+      message: >-
+        Fixed Flagbearer and Shenzhen fitting into bags. Now only fits in suit
+        storage or backpack slot.
+    - type: Fix
+      message: Fixed DEW/QBH one-handed accuracy being really high/perfect.
+  id: 2484
+  time: '2026-07-14T18:21:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4270

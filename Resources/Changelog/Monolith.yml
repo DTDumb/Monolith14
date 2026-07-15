@@ -22560,3 +22560,10 @@ Entries:
   id: 2492
   time: '2026-07-15T23:30:46.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4283
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed some minor bugs with Drillsite.
+  id: 2493
+  time: '2026-07-15T23:52:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4282

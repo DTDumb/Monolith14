@@ -22650,3 +22650,12 @@ Entries:
   id: 2501
   time: '2026-07-18T08:34:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4294
+- author: EldritchPineapple
+  changes:
+    - type: Tweak
+      message: >-
+        Changed the Polaris's internal layout slightly and made it so it didn't
+        blind everyone with 500 lights
+  id: 2502
+  time: '2026-07-18T08:37:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4288

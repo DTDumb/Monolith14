@@ -22693,3 +22693,10 @@ Entries:
   id: 2506
   time: '2026-07-18T21:06:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4309
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed issues with the nuke codes & announcement in Hyperwar.
+  id: 2507
+  time: '2026-07-18T23:56:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4311

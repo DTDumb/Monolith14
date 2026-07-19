@@ -22700,3 +22700,12 @@ Entries:
   id: 2507
   time: '2026-07-18T23:56:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4311
+- author: waphun
+  changes:
+    - type: Tweak
+      message: >-
+        The Shiv should have gravity now and its mining pulsers properly overlap
+        now
+  id: 2508
+  time: '2026-07-19T16:06:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4310

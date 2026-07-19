@@ -22709,3 +22709,12 @@ Entries:
   id: 2508
   time: '2026-07-19T16:06:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4310
+- author: kasature90
+  changes:
+    - type: Tweak
+      message: >-
+        Nuclear reactors & gas turbines are locked to general faction stuff now
+        instead of higher-access roles like FTLs.
+  id: 2509
+  time: '2026-07-19T20:09:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4319

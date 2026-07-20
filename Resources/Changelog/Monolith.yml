@@ -22734,3 +22734,10 @@ Entries:
   id: 2511
   time: '2026-07-20T06:36:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4321
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed Grizzly not working.
+  id: 2512
+  time: '2026-07-20T07:02:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4323

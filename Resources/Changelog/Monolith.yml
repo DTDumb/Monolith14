@@ -22741,3 +22741,12 @@ Entries:
   id: 2512
   time: '2026-07-20T07:02:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4323
+- author: kasature90
+  changes:
+    - type: Add
+      message: Added Layak as a PDV T1 escort corvette.
+    - type: Tweak
+      message: Updated Jupiter shipyard console roster to be more up-to-date.
+  id: 2513
+  time: '2026-07-20T10:54:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4285

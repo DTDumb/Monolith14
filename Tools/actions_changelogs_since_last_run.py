@@ -13,6 +13,7 @@ from typing import Any, Iterable
 
 import requests
 import yaml
+import time
 
 DEBUG = False
 # DEBUG_CHANGELOG_FILE_OLD = Path("Resources/Changelog/Old.yml") # not set up yet

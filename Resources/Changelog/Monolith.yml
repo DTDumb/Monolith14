@@ -22846,3 +22846,16 @@ Entries:
   id: 2521
   time: '2026-07-22T00:04:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4328
+- author: thoughtlessuser
+  changes:
+    - type: Add
+      message: >-
+        Added the Zeta Node. A small grid that sits in close proximity to CC and
+        allows fast travel between the two.
+    - type: Tweak
+      message: >-
+        The interior of CC's medbay is now altered for a more QoL outlook.
+        Mildly expanded CC's shooting range as well.
+  id: 2522
+  time: '2026-07-22T00:05:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4329

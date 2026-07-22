@@ -45,6 +45,7 @@
     tags:
     - Payload # yes, you can make re-usable prank grenades
     - BikeHorn
+    - GrenadeLaunchable # fire clown horns at your enimies and watch in despair as they get flashbanged
   - type: MeleeWeapon
     wideAnimationRotation: 135
     soundHit:
@@ -141,8 +142,8 @@
   - type: StaticPrice
     price: 1000
   - type: PointLight
-    radius: 1.2
-    energy: 1
+    radius: 1.1
+    energy: 100
     castShadows: false
     color: "#eef066"
 
@@ -162,6 +163,11 @@
     sprite: Objects/Fun/bananiumhorn.rsi
     slots: [Belt]
     quickEquip: false
+  - type: PointLight
+    radius: 2
+    energy: 10
+    castShadows: false
+    color: "#02ABD9"
   - type: EmitSoundOnUse
     sound:
       collection: BananiumHorn

@@ -22873,3 +22873,14 @@ Entries:
   id: 2524
   time: '2026-07-22T00:08:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4241
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Telescopic shields for PDV.
+    - type: Tweak
+      message: Telescopic shields received severe buffs
+    - type: Tweak
+      message: Heavy ballistic shield now blocks shock
+  id: 2525
+  time: '2026-07-22T00:14:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4336

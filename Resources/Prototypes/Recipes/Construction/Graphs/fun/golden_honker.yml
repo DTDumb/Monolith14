@@ -1,0 +1,25 @@
+﻿- type: constructionGraph
+  id: GoldenBikeHorn
+  start: start
+  graph:
+    - node: start
+      edges:
+        - to: GoldenBikeHorn
+          steps:
+            - tag: Gold
+              name: gold
+              icon:
+                sprite: Resources/Textures/Objects/Materials/ingots.rsi/
+                state: gold
+              doAfter: 2
+            - material: Gold
+              amount: 10
+              doAfter: 1
+            - tag: BikeHorn
+              name: bike horn
+              icon:
+                sprite: Objects/Fun/bikehorn.rsi
+                state: icon
+              doAfter: 1
+    - node: GoldenBikeHorn
+      entity: GoldenBikeHorn
